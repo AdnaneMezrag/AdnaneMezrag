@@ -13,7 +13,8 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<!-- You can add your LinkedIn, Twitter, etc., if you want -->
+<a href="https://www.linkedin.com/in/adnane-mezrag-525637248/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+
 </p>
 
 ---
